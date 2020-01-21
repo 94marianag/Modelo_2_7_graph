@@ -1,0 +1,23 @@
+{
+  "name": "modelo_2_7_graph",
+  "version": "1.0.0",
+  "description": "Practica Modulo 2 grafos, 21 de enero",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/94marianag/Modelo_2_7_graph.git"
+  },
+  "keywords": [],
+  "author": "Mariana G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/94marianag/Modelo_2_7_graph/issues"
+  },
+  "homepage": "https://github.com/94marianag/Modelo_2_7_graph#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
